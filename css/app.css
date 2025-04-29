@@ -12,11 +12,6 @@ main{
     font-weight: 400;
 }
 
-svg{
-    justify-content: space-around;
-    align-items: center;
-    border: solid 1px grey;
-}
 
 /* DEBUG */
 .debug .row > *{
